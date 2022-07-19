@@ -44,9 +44,17 @@
   background-color: rgb(221, 24, 24);
   text-align: bottom;
 }
+#b1 img{
+  height:100px;
+  width:100px;
+}
 #b15{
   background-color: rgb(11, 237, 64);
   text-align: bottom;
+}
+#b15 img{
+  height:100px;
+  width:100px; 
 }
 #turn{
   text-align: center;
@@ -92,12 +100,4 @@
   position:absolute;
   bottom: 0px;
   /* left:2px; */
-}
-#b15 img{
-  height:100px;
-  width:100px; 
-}
-#b1 img{
-  height:100px;
-  width:100px;
 }
