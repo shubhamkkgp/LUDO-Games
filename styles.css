@@ -81,3 +81,23 @@
   font-size: larger;
   /* margin:5px; */
 }
+#b14{
+  text-align: center;
+}
+#b28{
+  text-align: center;
+}
+.box h5{
+  text-align:center;
+  position:absolute;
+  bottom: 0px;
+  /* left:2px; */
+}
+#b15 img{
+  height:100px;
+  width:100px; 
+}
+#b1 img{
+  height:100px;
+  width:100px;
+}
